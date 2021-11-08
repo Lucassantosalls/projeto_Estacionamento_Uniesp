@@ -4,7 +4,7 @@ Projeto tem por objetivo fazer um sistema de gestão de estacionamento, onde se 
 
 ## Especificações Técnicas
 
-Projeto feito na linguagem java utiliza programação orientada a objetos com enfase nos conceitos de herança e nncapsulamento, além de um pouco de polimorfismo, também é utilizado conceitos de Estrutura de dados para faze a gestão dos dados inseridos pelo software.
+Projeto feito na linguagem java utiliza programação orientada a objetos com ênfase nos conceitos de herança e encapsulamento, além de um pouco de polimorfismo, também é utilizado conceitos de Estrutura de dados para faze a gestão dos dados inseridos pelo software.
 
 
 
