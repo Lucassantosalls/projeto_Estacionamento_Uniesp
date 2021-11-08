@@ -1,18 +1,10 @@
-## Getting Started
+## Projeto de Estacionamento Uniesp
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Projeto tem por objetivo fazer um sistema de gestão de estacionamento, onde se pode fazer cadastro de vagas, visualizar vagas e fazer o Check-out.
 
-## Folder Structure
+## Especificações Técnicas
 
-The workspace contains two folders by default, where:
+Projeto feito na linguagem java utiliza programação orientada a objetos com enfase nos conceitos de herança e nncapsulamento, além de um pouco de polimorfismo, também é utilizado conceitos de Estrutura de dados para faze a gestão dos dados inseridos pelo software.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
