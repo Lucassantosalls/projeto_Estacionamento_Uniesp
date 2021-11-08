@@ -47,7 +47,6 @@ public class App {
                     Long CPF = sc.nextLong();
 
                     usua.add(new Usuario(nome, funcao, CPF));
-                    //us[idVaga] = new Usuario(nome, funcao, CPF);
                 
                     System.out.println();
                     System.out.println("Ótimo, agora vou precisar de alguns dados do veiculo.");
