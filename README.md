@@ -12,7 +12,7 @@ Nome: Lucas dos Santos Alves; Professor: Humberto Barros; Matrícula: 2021111510
 
 A solução tem roda no terminal utilizando o JDK. Para navegar é necessário colocar a opção desejada, menu inicial: 
 
-![image](https://user-images.githubusercontent.com/79539419/141661307-96501bf4-aee3-4e3d-ba86-ef1de73d1cb7.png)
+![image](https://user-images.githubusercontent.com/79539419/141661768-cfffedb3-de61-4b68-8097-bd49c57d1e85.png)
 
 No menu inicial tem quatro opções, selecionando a opção “1 – Cadastrar vaga” é direcionado para essa tela:
 
