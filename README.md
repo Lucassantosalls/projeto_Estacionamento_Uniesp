@@ -8,9 +8,7 @@ Projeto feito na linguagem java utiliza programação orientada a objetos com ê
 
 ## Para a disciplina de Estrutura de dados
 
-Nome: Lucas dos Santos Alves
-Professor: Humberto Barros
-Matrícula: 2021111510028
+Nome: Lucas dos Santos Alves; Professor: Humberto Barros; Matrícula: 2021111510028
 
 A solução tem roda no terminal utilizando o JDK. Para navegar é necessário colocar a opção desejada, menu inicial: 
 
@@ -34,7 +32,6 @@ Como a tela é restrita para administradores é necessário uma palavra para aut
 
 ## Para a disciplina de Liguagem de Programação II
 
-Alunos: Lucas dos Santos Alves, Lucas Martins Gadelha, Simone Martins de Pontes, Juliana Félix de Souza Gomes, Carlos Henrique dos Santos Carneiro
-Professor: Glaucio Bezerra Rocha
+Alunos: Lucas dos Santos Alves, Lucas Martins Gadelha, Simone Martins de Pontes, Juliana Félix de Souza Gomes, Carlos Henrique dos Santos Carneiro; Professor: Glaucio Bezerra Rocha
 
 Projeto utiliza conceitos de programação orientada a objetos, é utilizado duas classes "Veiculo" e "Usuario", as classes contém conceitos de emcapsulamento, para presevar que seja editado por usuários sem acesso, além de atributos que são objetos, por ser simples as classes generalizam ao maximo os usuários, com o atributo "Função" que é em aberto e pode ser especificado qualquer função (estudante, professor, visitante).
