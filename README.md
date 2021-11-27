@@ -10,7 +10,7 @@ Projeto feito na linguagem java utiliza programação orientada a objetos com ê
 
 Nome: Lucas dos Santos Alves; Professor: Humberto Barros; Matrícula: 2021111510028
 
-A solução tem roda no terminal utilizando o JDK. Para navegar é necessário colocar a opção desejada, menu inicial: 
+A solução roda no terminal utilizando o JDK. Para navegar é necessário colocar a opção desejada, menu inicial: 
 
 ![image](https://user-images.githubusercontent.com/79539419/141661768-cfffedb3-de61-4b68-8097-bd49c57d1e85.png)
 
